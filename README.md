@@ -16,11 +16,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 ```
-/*
+
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: N.Navya Sree
 RegisterNumber:  212223040138
 
+```
+```
 import pandas as pd
 data=pd.read_csv("Employee.csv")
 data.head()
@@ -48,37 +50,21 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-Data.head():
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/74e1ebb6-ad77-496e-af13-3f67edb60b99)
 
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/fe7e2a52-b584-4686-8027-b1cb8ec0c136)
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/17e368c6-56d9-4d89-a5e2-b9be702e4f91)
 
-Data.info():
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/8c5ad82c-d925-4f9c-98b5-70b42c4f8b8f)
 
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/e91f5083-b124-4bde-a531-a3a8f8f469cb)
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/4bf731e6-0b87-4193-8858-c7c107ccf65e)
 
-isnull() and sum():
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/1dc35319-f036-4518-a1c7-a0fec802f2d9)
 
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/13765c70-5817-4e4a-875b-191ff0b3a687)
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/7f465a1f-5b68-41f2-b6b5-707675800086)
 
-Data Value Counts():
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/6bbcbd08-8d41-4005-9fcc-d9afb9007665)
 
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/01560d37-b412-446d-8648-705b39e7a7ea)
-
-Data.head() for salary:
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/459eba34-9924-4f09-a9fe-c3db2cb4b230)
-
-x.head:
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/9c7e8ea2-4992-464f-9c3e-8ade02113569)
-
-Accuracy Value:
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/7dd3fc29-5591-415e-b43c-bb3d9bcb392c)
-
-Data Prediction:
-
-![image](https://github.com/22003264/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119389139/9a5343bc-3a31-4ab6-9e9d-96bad64d5909)
+![image](https://github.com/23004513/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138973069/387a443d-b738-4919-9ff3-758391a86026)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
